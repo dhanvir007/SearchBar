@@ -1,0 +1,30 @@
+select{
+    border:1px solid gray;
+    height:5vh;
+}
+.listCategories{
+    width:20vw;
+    height:50vh;
+    border:1px gray solid;
+    text-align:center;
+    box-shadow:2px 2px 5px gray;
+    margin-bottom:10px;
+    
+ 
+}
+.cate{
+    display:flex;
+    flex-wrap:wrap;
+}
+
+ 
+.header img{
+        width:20vw;
+        height:20vh;
+}
+.title{
+    font-weight:bold;
+}
+
+
+
